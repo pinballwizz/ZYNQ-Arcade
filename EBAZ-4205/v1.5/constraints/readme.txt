@@ -1,0 +1,1 @@
+Constraints file to use in conjunction with the EBAZ-4205 Arcade PCB and Vivado.
