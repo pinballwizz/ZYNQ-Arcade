@@ -1,1 +1,0 @@
-ZYNQ ARCADE - ANTMINER S9 Arcade Adapter Board Versions. PinballWiz.org
